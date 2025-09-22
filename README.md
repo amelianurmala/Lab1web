@@ -45,6 +45,14 @@ Lalu saya menambahkan paragraf baru sebagai contoh penggunaan tag `<p>`.
 Terakhir saya menambahkan heading `<h3>` berisi **Logo Universitas Pelita Bangsa**.  
 Kemudian saya menambahkan gambar logo UPB menggunakan tag `<img src="logo_upb.png" width="200">`.  
 
+### F. Langkah 6: Membuat Halaman Kedua
+<img width="795" height="599" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/66572001-1134-4bd1-9154-80a38eaf94ce" />
+
+Selain halaman utama, saya juga membuat halaman kedua dengan nama file **lab1_halaman2.html**.  
+Halaman ini berisi heading `<h1>` dengan teks **Halaman Kedua**, serta sebuah paragraf sederhana.  
+Di bagian bawah saya tambahkan link untuk kembali ke halaman utama (`lab1_tag_dasar.html`).  
+
+
 ---
 
 
