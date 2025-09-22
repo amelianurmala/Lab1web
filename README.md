@@ -78,8 +78,6 @@ Ini baris kedua.
 ```
 Hasil: hanya pindah baris, tanpa jarak tambahan.
 
-```
-```
 ---
 
 ### 3. Apa perbedaan atribut `title` dan `alt` pada tag `<img>`?
